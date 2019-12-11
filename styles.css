@@ -6,10 +6,6 @@ html {
     font-family: 'Kokila';
 	
 body {
-    background: -webkit-linear-gradient(left, #93B874, #C9DCB9); 
-    background: -o-linear-gradient(right, #93B874, #C9DCB9);
-    background: -moz-linear-gradient(right, #93B874, #C9DCB9); 
-    background: linear-gradient(to right, #93B874, #C9DCB9); 
-    background-color: #93B874; 
+background-image: linear-gradient(90deg, #93B874, #C9DCB9);
 }
 </style>
