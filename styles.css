@@ -1,9 +1,11 @@
 body {
    background-image: linear-gradient(-75deg, #93B874, #C9DCB9);
 }
+
 @font-face {
-   font-family: 'Kalimati';
-}
+    src: url("http://experimenting.in/css3/webfonts/hindifontsdemo/gargi.ttf") format('truetype');
+    font-family: "gargi";
+  }
 *{
   box-sizing: border-box;
 }
