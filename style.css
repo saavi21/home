@@ -1,11 +1,11 @@
 body {
    background-image: linear-gradient(-75deg, #93B874, #C9DCB9);
 }
-
 @font-face {
-    src: url("http://experimenting.in/css3/webfonts/hindifontsdemo/gargi.ttf") format('truetype');
-    font-family: "gargi";
-  }
+font-family: "Lohit-Devanagari";
+src: url("css/fonts/Lohit-Devanagari.ttf") format('truetype')
+} 
+
 *{
   box-sizing: border-box;
 }
@@ -15,7 +15,7 @@ body {
   float: left;
   width: 50%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  height: 900px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
