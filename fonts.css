@@ -2,6 +2,15 @@
 
 @font-face
 {
+	font-family: 'kalimati';
+	src: url('fonts/kalimati');
+	src: url('fonts/kalimati.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face
+{
 	font-family: 'FontAwesome';
 	src: url('fonts/fontawesome-webfont.eot?v=3.0.1');
 	src: url('fonts/fontawesome-webfont.eot?#iefix&v=3.0.1') format('embedded-opentype'),
@@ -23,6 +32,8 @@
 	font-weight: normal;
 	font-style: normal;
 }
+
+
 
 /*********************************************************************************/
 /* Icons                                                                         */
