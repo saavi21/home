@@ -52,16 +52,12 @@
 		text-decoration: none;
 	}
 	
-	/* .container
+	.container
 	{
-		width: 1200px;
+		width: 1300px;
 		margin: 0px auto;
-	} */
-	.container 
-	{
-		width: 80%; /* 80% of the viewport width */
-		max-width: 1200px; /* Max width to avoid it getting too wide on large screens */
 	}
+
 /*********************************************************************************/
 /* Image Style                                                                   */
 /*********************************************************************************/
