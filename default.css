@@ -54,7 +54,7 @@
 	
 	.container
 	{
-		width: 1100px;
+		width: 1000px;
 		margin: 0px auto;
 	}
 
@@ -70,7 +70,7 @@
 	.image img
 	{
 		display: block;
-		width: 100%;
+		width: 90%;
 	}
 	
 	.image-full
