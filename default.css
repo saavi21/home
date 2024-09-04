@@ -76,7 +76,7 @@
 	.image-full
 	{
 		display: block;
-		width: 70%;
+		width: 100%;
 		margin: 0 0 0 0;
 	}
 	
@@ -432,7 +432,7 @@
 		background: #2A70E8;
 		margin: 0px auto 20px auto;
 		line-height: 2.5em;
-		font-size: 2em;
+		font-size: 4em;
 		text-align: center;
 		color: #FFF;
 	}
@@ -443,7 +443,7 @@
 	.column4
 
 	{
-		width: 260px;
+		width: 280px;
 	}
 	
 	.column1,
